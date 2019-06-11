@@ -1,0 +1,7 @@
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\obj\Debug\RobloxVisitBot.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\obj\Debug\RobloxVisitBot.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\bin\Debug\RobloxVisitBot.exe.config
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\bin\Debug\RobloxVisitBot.exe
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\bin\Debug\RobloxVisitBot.pdb
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\obj\Debug\RobloxVisitBot.exe
+C:\Users\matth\source\repos\RobloxVisitBot\RobloxVisitBot\obj\Debug\RobloxVisitBot.pdb
