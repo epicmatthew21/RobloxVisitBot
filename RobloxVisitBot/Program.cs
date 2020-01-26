@@ -52,7 +52,7 @@ namespace RobloxVisitBot
             httpWebRequest.ContentLength = 0;
             using (WebResponse response = httpWebRequest.GetResponse())
             {
-                string limit = response.Headers["RBX-Authentication-Ticket"].ToString();
+                string limit = response.Headers["rbx-authentication-ticket"].ToString();
                 return limit;
             }
         }
